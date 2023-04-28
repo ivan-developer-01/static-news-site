@@ -12,3 +12,8 @@ header {
     background: url("clouds-from-unsplash-billy-huynh.jpeg") bottom no-repeat;
     background-size: cover;
 }
+
+h1 {
+    font-size: 4rem;
+    font-family: "Times New Roman", Times, serif;
+}
