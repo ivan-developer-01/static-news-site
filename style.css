@@ -9,4 +9,6 @@ header {
     justify-content: center;
     height: 400px;
     background-color: rgb(128, 119, 119);
+    background: url("clouds-from-unsplash-billy-huynh.jpeg") bottom no-repeat;
+    background-size: cover;
 }
